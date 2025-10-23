@@ -107,7 +107,8 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 Output
 
 
-![AUTODESK 2 2_page-0001](https://github.com/user-attachments/assets/158769cc-2efa-438a-8b43-cc5bf952c22e)
+Output:
+![PRANAV AUTODESK 44444_page-0001](https://github.com/user-attachments/assets/837e8480-4c5d-4d4c-b3d8-93147304bdd3)
 
 
 
